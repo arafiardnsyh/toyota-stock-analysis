@@ -10,3 +10,10 @@ This project analyzes Toyota's stock data to explore trends, volatility, and com
 - Python (Pandas, Matplotlib, Seaborn)
 - Google Colab
 - yfinance for competitor data
+
+##Data Cleaning Process
+- Converted the Date column to datetime format.
+- Handled missing values using the imputation method.
+- Removed duplicate rows.
+- Detected and handled outliers using the Interquartile Range (IQR) method.
+- Normalized stock price data using Min-Max Scaling.
