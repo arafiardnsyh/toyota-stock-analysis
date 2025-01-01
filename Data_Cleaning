@@ -1,6 +1,0 @@
-## Proses Cleaning Data
-- Mengonversi kolom `Date` ke format datetime.
-- Menangani missing values dengan metode imputasi.
-- Menghapus baris duplikat.
-- Mendeteksi dan menangani outlier menggunakan metode IQR.
-- Menormalisasi data harga saham menggunakan Min-Max Scaling.
